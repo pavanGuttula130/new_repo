@@ -24,3 +24,9 @@ for i in range(1, 11):
 		print(i, "is a Fibonacci Number")
 	else:
 		print(i, "just for checking")
+
+for i in range(11, 20):
+	if (isFibonacci(i) == True):
+		print(i, "is a Fibonacci Number")
+	else:
+		print(i, "just for checking")
